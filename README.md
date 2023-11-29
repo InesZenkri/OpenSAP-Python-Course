@@ -4,15 +4,13 @@ Welcome to my repository containing solutions for the amazing `OpenSAP Python fo
 
 ## 📁 Repository Structure
 
-- [**Week_00/Getting Started**](./solutions/Week_00/)
-    - [**exercise_01.py**](./solutions/Week_00/exercise_01.py)
+<details>
+  <summary><b>Week 00: Getting Started</b></summary>
+  <ul>
+    <li><a href="./solutions/Week_00/exercise_01.py">exercise_01.py</a></li>
+  </ul>
+</details>
 
-- [**Week_01: Python Fundamentals**](./solutions/Week_01/)
-    - [**exercise_01.py**](./solutions/Week_01/exercise_01.py)
-    - [**exercise_02.py**](./solutions/Week_01/exercise_02.py)
-    - [**exercise_03.py**](./solutions/Week_01/exercise_03.py)
-    - [**bonus.py**](./solutions/Week_01/bonus.py)
- 
 <details>
   <summary><b>Week 01: Python Fundamentals</b></summary>
   <ul>
@@ -23,34 +21,65 @@ Welcome to my repository containing solutions for the amazing `OpenSAP Python fo
   </ul>
 </details>
 
-- [**Week_03: Complex Data Types**](./solutions/Week_03/)
-    - [**exercise_01.py**](./solutions/Week_03/exercise_01.py)
-    - [**exercise_02.py**](./solutions/Week_03/exercise_02.py)
-    - [**exercise_03.py**](./solutions/Week_03/exercise_03.py)
-    - [**bonus.py**](./solutions/Week_03/bonus.py)
+<details>
+  <summary><b>Week 02: Lists and Loops</b></summary>
+  <ul>
+    <li><a href="./solutions/Week_02/exercise_01.py">exercise_01.py</a></li>
+    <li><a href="./solutions/Week_02/exercise_02.py">exercise_02.py</a></li>
+    <li><a href="./solutions/Week_02/exercise_03.py">exercise_03.py</a></li>
+    <li><a href="./solutions/Week_02/exercise_04.py">exercise_04.py</a></li>
+    <li><a href="./solutions/Week_02/bonus.py">bonus.py</a></li>
+  </ul>
+</details>
 
-- [**Week_04: Reading and Writing Data**](./solutions/Week_04/)
-    - [**exercise_01.py**](./solutions/Week_04/exercise_01.py)
-    - [**exercise_02.py**](./solutions/Week_04/exercise_02.py)
-    - [**exercise_03.py**](./solutions/Week_04/exercise_03.py)
-    - [**exercise_04.py**](./solutions/Week_04/exercise_04.py)
-    - [**bonus.py**](./solutions/Week_04/bonus.py)
+<details>
+  <summary><b>Week 03: Complex Data Types</b></summary>
+  <ul>
+    <li><a href="./solutions/Week_03/exercise_01.py">exercise_01.py</a></li>
+    <li><a href="./solutions/Week_03/exercise_02.py">exercise_02.py</a></li>
+    <li><a href="./solutions/Week_03/exercise_03.py">exercise_03.py</a></li>
+    <li><a href="./solutions/Week_03/bonus.py">bonus.py</a></li>
+  </ul>
+</details>
 
-- [**Week_05: Functions**](./solutions/Week_05/)
-    - [**exercise_01.py**](./solutions/Week_05/exercise_01.py)
-    - [**exercise_02.py**](./solutions/Week_05/exercise_02.py)
-    - [**exercise_03.py**](./solutions/Week_05/exercise_03.py)
-    - [**exercise_04.py**](./solutions/Week_05/exercise_04.py)
-    - [**bonus.py**](./solutions/Week_05/bonus.py)
+<details>
+  <summary><b>Week 04: Reading and Writing Data</b></summary>
+  <ul>
+    <li><a href="./solutions/Week_04/exercise_01.py">exercise_01.py</a></li>
+    <li><a href="./solutions/Week_04/exercise_02.py">exercise_02.py</a></li>
+    <li><a href="./solutions/Week_04/exercise_03.py">exercise_03.py</a></li>
+    <li><a href="./solutions/Week_04/exercise_04.py">exercise_04.py</a></li>
+    <li><a href="./solutions/Week_04/bonus.py">bonus.py</a></li>
+  </ul>
+</details>
 
-- [**Week_06: Libraries**](./solutions/Week_06/)
-    - [**exercise_01.py**](./solutions/Week_06/exercise_01.py)
-    - [**exercise_02.py**](./solutions/Week_06/exercise_02.py)
-    - [**exercise_03.py**](./solutions/Week_06/exercise_03.py)
-    - [**bonus.py**](./solutions/Week_06/bonus.py)
+<details>
+  <summary><b>Week 05: Functions</b></summary>
+  <ul>
+    <li><a href="./solutions/Week_05/exercise_01.py">exercise_01.py</a></li>
+    <li><a href="./solutions/Week_05/exercise_02.py">exercise_02.py</a></li>
+    <li><a href="./solutions/Week_05/exercise_03.py">exercise_03.py</a></li>
+    <li><a href="./solutions/Week_05/exercise_04.py">exercise_04.py</a></li>
+    <li><a href="./solutions/Week_05/bonus.py">bonus.py</a></li>
+  </ul>
+</details>
 
-- [**Week_07: Final Exam**](./solutions/Week_07/)
-    - [**exam.py**](./solutions/Week_07/exam.py)
+<details>
+  <summary><b>Week 06: Libraries</b></summary>
+  <ul>
+    <li><a href="./solutions/Week_06/exercise_01.py">exercise_01.py</a></li>
+    <li><a href="./solutions/Week_06/exercise_02.py">exercise_02.py</a></li>
+    <li><a href="./solutions/Week_06/exercise_03.py">exercise_03.py</a></li>
+    <li><a href="./solutions/Week_06/bonus.py">bonus.py</a></li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>Week 07: Final Exam</b></summary>
+  <ul>
+    <li><a href="./solutions/Week_07/exam.py">exam.py</a></li>
+  </ul>
+</details>
 
 - - - 
 
