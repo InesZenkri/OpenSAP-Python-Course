@@ -7,77 +7,77 @@ Welcome to my repository containing solutions for the amazing `OpenSAP Python fo
 <details>
   <summary><b>Week 00: Getting Started</b></summary>
   <ul>
-    <li><a href="./solutions/Week_00/exercise_01.py">exercise_01.py</a></li>
+    <li><a href="./solutions/Week00/exercise_01.py">exercise_01.py</a></li>
   </ul>
 </details>
 
 <details>
   <summary><b>Week 01: Python Fundamentals</b></summary>
   <ul>
-    <li><a href="./solutions/Week_01/exercise_01.py">exercise_01.py</a></li>
-    <li><a href="./solutions/Week_01/exercise_02.py">exercise_02.py</a></li>
-    <li><a href="./solutions/Week_01/exercise_03.py">exercise_03.py</a></li>
-    <li><a href="./solutions/Week_01/bonus.py">bonus.py</a></li>
+    <li><a href="./solutions/Week01/exercise_01.py">exercise_01.py</a></li>
+    <li><a href="./solutions/Week01/exercise_02.py">exercise_02.py</a></li>
+    <li><a href="./solutions/Week01/exercise_03.py">exercise_03.py</a></li>
+    <li><a href="./solutions/Week01/bonus.py">bonus.py</a></li>
   </ul>
 </details>
 
 <details>
   <summary><b>Week 02: Lists and Loops</b></summary>
   <ul>
-    <li><a href="./solutions/Week_02/exercise_01.py">exercise_01.py</a></li>
-    <li><a href="./solutions/Week_02/exercise_02.py">exercise_02.py</a></li>
-    <li><a href="./solutions/Week_02/exercise_03.py">exercise_03.py</a></li>
-    <li><a href="./solutions/Week_02/exercise_04.py">exercise_04.py</a></li>
-    <li><a href="./solutions/Week_02/bonus.py">bonus.py</a></li>
+    <li><a href="./solutions/Week02/exercise_01.py">exercise_01.py</a></li>
+    <li><a href="./solutions/Week02/exercise_02.py">exercise_02.py</a></li>
+    <li><a href="./solutions/Week02/exercise_03.py">exercise_03.py</a></li>
+    <li><a href="./solutions/Week02/exercise_04.py">exercise_04.py</a></li>
+    <li><a href="./solutions/Week02/bonus.py">bonus.py</a></li>
   </ul>
 </details>
 
 <details>
   <summary><b>Week 03: Complex Data Types</b></summary>
   <ul>
-    <li><a href="./solutions/Week_03/exercise_01.py">exercise_01.py</a></li>
-    <li><a href="./solutions/Week_03/exercise_02.py">exercise_02.py</a></li>
-    <li><a href="./solutions/Week_03/exercise_03.py">exercise_03.py</a></li>
-    <li><a href="./solutions/Week_03/bonus.py">bonus.py</a></li>
+    <li><a href="./solutions/Week03/exercise_01.py">exercise_01.py</a></li>
+    <li><a href="./solutions/Week03/exercise_02.py">exercise_02.py</a></li>
+    <li><a href="./solutions/Week03/exercise_03.py">exercise_03.py</a></li>
+    <li><a href="./solutions/Week03/bonus.py">bonus.py</a></li>
   </ul>
 </details>
 
 <details>
   <summary><b>Week 04: Reading and Writing Data</b></summary>
   <ul>
-    <li><a href="./solutions/Week_04/exercise_01.py">exercise_01.py</a></li>
-    <li><a href="./solutions/Week_04/exercise_02.py">exercise_02.py</a></li>
-    <li><a href="./solutions/Week_04/exercise_03.py">exercise_03.py</a></li>
-    <li><a href="./solutions/Week_04/exercise_04.py">exercise_04.py</a></li>
-    <li><a href="./solutions/Week_04/bonus.py">bonus.py</a></li>
+    <li><a href="./solutions/Week04/exercise_01.py">exercise_01.py</a></li>
+    <li><a href="./solutions/Week04/exercise_02.py">exercise_02.py</a></li>
+    <li><a href="./solutions/Week04/exercise_03.py">exercise_03.py</a></li>
+    <li><a href="./solutions/Week04/exercise_04.py">exercise_04.py</a></li>
+    <li><a href="./solutions/Week04/bonus.py">bonus.py</a></li>
   </ul>
 </details>
 
 <details>
   <summary><b>Week 05: Functions</b></summary>
   <ul>
-    <li><a href="./solutions/Week_05/exercise_01.py">exercise_01.py</a></li>
-    <li><a href="./solutions/Week_05/exercise_02.py">exercise_02.py</a></li>
-    <li><a href="./solutions/Week_05/exercise_03.py">exercise_03.py</a></li>
-    <li><a href="./solutions/Week_05/exercise_04.py">exercise_04.py</a></li>
-    <li><a href="./solutions/Week_05/bonus.py">bonus.py</a></li>
+    <li><a href="./solutions/Week05/exercise_01.py">exercise_01.py</a></li>
+    <li><a href="./solutions/Week05/exercise_02.py">exercise_02.py</a></li>
+    <li><a href="./solutions/Week05/exercise_03.py">exercise_03.py</a></li>
+    <li><a href="./solutions/Week05/exercise_04.py">exercise_04.py</a></li>
+    <li><a href="./solutions/Week05/bonus.py">bonus.py</a></li>
   </ul>
 </details>
 
 <details>
   <summary><b>Week 06: Libraries</b></summary>
   <ul>
-    <li><a href="./solutions/Week_06/exercise_01.py">exercise_01.py</a></li>
-    <li><a href="./solutions/Week_06/exercise_02.py">exercise_02.py</a></li>
-    <li><a href="./solutions/Week_06/exercise_03.py">exercise_03.py</a></li>
-    <li><a href="./solutions/Week_06/bonus.py">bonus.py</a></li>
+    <li><a href="./solutions/Week06/exercise_01.py">exercise_01.py</a></li>
+    <li><a href="./solutions/Week06/exercise_02.py">exercise_02.py</a></li>
+    <li><a href="./solutions/Week06/exercise_03.py">exercise_03.py</a></li>
+    <li><a href="./solutions/Week06/bonus.py">bonus.py</a></li>
   </ul>
 </details>
 
 <details>
   <summary><b>Week 07: Final Exam</b></summary>
   <ul>
-    <li><a href="./solutions/Week_07/exam.py">exam.py</a></li>
+    <li><a href="./solutions/Week07/exam.py">exam.py</a></li>
   </ul>
 </details>
 
