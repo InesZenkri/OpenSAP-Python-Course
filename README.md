@@ -4,20 +4,24 @@ Welcome to my repository containing solutions for the amazing `OpenSAP Python fo
 
 ## 📁 Repository Structure
 
-- **Week_00/Getting Started**(./solutions/Week_00/)
+- [**Week_00/Getting Started**](./solutions/Week_00/)
     - [**exercise_01.py**](./solutions/Week_00/exercise_01.py)
+
 - [**Week_01: Python Fundamentals**](./solutions/Week_01/)
     - [**exercise_01.py**](./solutions/Week_01/exercise_01.py)
     - [**exercise_02.py**](./solutions/Week_01/exercise_02.py)
     - [**exercise_03.py**](./solutions/Week_01/exercise_03.py)
     - [**bonus.py**](./solutions/Week_01/bonus.py)
-   
-- [**Week_02: Lists and Loops**](./solutions/Week_02/)
-    - [**exercise_01.py**](./solutions/Week_02/exercise_01.py)
-    - [**exercise_02.py**](./solutions/Week_02/exercise_02.py)
-    - [**exercise_03.py**](./solutions/Week_02/exercise_03.py)
-    - [**exercise_04.py**](./solutions/Week_02/exercise_04.py)
-    - [**bonus.py**](./solutions/Week_02/bonus.py)
+ 
+<details>
+  <summary><b>Week 01: Python Fundamentals</b></summary>
+  <ul>
+    <li><a href="./solutions/Week_01/exercise_01.py">exercise_01.py</a></li>
+    <li><a href="./solutions/Week_01/exercise_02.py">exercise_02.py</a></li>
+    <li><a href="./solutions/Week_01/exercise_03.py">exercise_03.py</a></li>
+    <li><a href="./solutions/Week_01/bonus.py">bonus.py</a></li>
+  </ul>
+</details>
 
 - [**Week_03: Complex Data Types**](./solutions/Week_03/)
     - [**exercise_01.py**](./solutions/Week_03/exercise_01.py)
