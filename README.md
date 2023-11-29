@@ -8,7 +8,7 @@ Welcome to my repository containing solutions for the amazing `OpenSAP Python fo
 <details>
   <summary><b>Week 00: Getting Started</b></summary>
   <ul>
-     <li><a href="./solutions/Week03/exercise_01.py">exercise_01.py</a></li>
+     <li><a href="./solutions/Week00/exercise_01.py">exercise_01.py</a></li>
   </ul>
 </details>
 
