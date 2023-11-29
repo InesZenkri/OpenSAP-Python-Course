@@ -14,7 +14,7 @@ Welcome to my repository containing solutions for the amazing `OpenSAP Python fo
 <details>
   <summary><b>Week 01: Python Fundamentals</b></summary>
   <ul>
-    <li><a href="solutions/Week01/exercise_01.py">exercise_01.py</a></li>
+    <li><a href="./solutions/Week01/exercise_01.py">exercise_01.py</a></li>
     <li><a href="./solutions/Week01/exercise_02.py">exercise_02.py</a></li>
     <li><a href="./solutions/Week01/exercise_03.py">exercise_03.py</a></li>
     <li><a href="solutions/Week01/bonus.py">bonus.py</a></li>
