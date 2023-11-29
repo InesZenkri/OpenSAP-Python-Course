@@ -4,10 +4,9 @@ Welcome to my repository containing solutions for the amazing `OpenSAP Python fo
 
 ## 📁 Repository Structure
 
-- **solutions/**
-  - **Week_00/Getting Started**
+- **Week_00/Getting Started**(./solutions/Week_00/)
     - [**exercise_01.py**](./solutions/Week_00/exercise_01.py)
-  - [**Week_01: Python Fundamentals**](./solutions/Week_01/)
+- [**Week_01: Python Fundamentals**](./solutions/Week_01/)
     - [**exercise_01.py**](./solutions/Week_01/exercise_01.py)
     - [**exercise_02.py**](./solutions/Week_01/exercise_02.py)
     - [**exercise_03.py**](./solutions/Week_01/exercise_03.py)
